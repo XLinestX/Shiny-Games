@@ -1,4 +1,4 @@
--- GG
+-- GG loadstring(game:HttpGet("https://raw.githubusercontent.com/XLinestX/Shiny-Games/main/ShinyGames.lua"))()
 
 
 
